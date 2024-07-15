@@ -1,5 +1,13 @@
 [
   {
+    "name": "一福利",
+    "url": "https;//www.ifli.cn",
+    "icon": "https://source.drie.cn/badge/上班摸鱼中.svg",
+    "placeholder": "",
+    "blocked": false,
+    "isInner": false
+  },
+  {
     "name": "站内",
     "icon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav-web@image/logo.png",
     "placeholder": "站内搜索",
